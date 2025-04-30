@@ -29,17 +29,6 @@ Users can create, view, complete, delete, and filter todos based on their status
 
 ## ✨ Features
 
-- View all previously created todos pulled from an API
-- Add new todos using an input field
-- Mark todos as completed using checkboxes
-- **Sorting**: Filtertodos by their status: All / Active / Completed
-- Delete completed todos with a single click
-- Real-time UI updates based on server-side data
-- Minimalistic and responsive design
-
-
-## ✨ Features
-
 - **Classic Todo**:  Users can add new tasks, edit existing ones, and remove any todo items at any time.
 
 - **Filter todos by status**: Filter the list to show all tasks, only completed, or only active todos.
