@@ -1,4 +1,4 @@
-# 📝 Todo App
+# 📝 Daily Organizer
 
 A simple yet functional Todo application built with React and TypeScript.
 This project demonstrates working with an external API.
